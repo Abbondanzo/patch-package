@@ -1,5 +1,11 @@
-This fork attempts to solve issues with partially-applied patches. See
+# This is a fork!
+
+This is a fork of
+[the original patch-package](https://github.com/ds300/patch-package) that
+attempts to solve issues with partially-applied patches. See
 [this PR](https://github.com/Abbondanzo/patch-package/pull/1) for more context.
+
+# patch-package
 
 <p align="center">
   <img src="https://ds300.github.io/patch-package/patch-package.svg" width="80%" alt="patch-package" />
