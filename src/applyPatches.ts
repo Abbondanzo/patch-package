@@ -189,10 +189,6 @@ export function applyPatchesForApp({
           warnings.push(
             `Patch conflicts found for ${name}. Performed clean reinstall`,
           )
-          console.info(chalk.grey("•"), "Creating temporary folder")
-          console.info(chalk.grey("•"), "Creating temporary folder")
-          console.info(chalk.grey("•"), "Creating temporary folder")
-
           console.log(
             `${chalk.bold(pathSpecifier)}@${version} ${chalk.green("✔")}`,
           )
